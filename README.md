@@ -9,6 +9,7 @@ SDKMAN is a tool for managing parallel Versions of multiple Software Development
 
 See documentation on the [SDKMAN! website](https://sdkman.io).
 
+
 ## NOTICE
 
 **We are rewriting all the commands for SDKMAN! in [Rust](https://www.rust-lang.org/) under a [new project](https://github.com/sdkman/sdkman-cli-native) that supplements this one. Only bug fixes to supporting code will be
